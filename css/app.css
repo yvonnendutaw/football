@@ -217,6 +217,10 @@ input[type=text]:focus {
     border-radius: 25px;
     height: 60
 }
+.col.s12.l3.m6.playerdata {
+    margin-top: -16px;
+    margin-bottom: 10px;
+}
 
 .playerdatalist {
     background: rgba(0, 0, 0, 0.8);
